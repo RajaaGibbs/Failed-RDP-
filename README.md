@@ -9,7 +9,6 @@
 <br />
 
 <br />
-Create virtual machine (named windows)
 <p align="center">
 <img src="https://i.imgur.com/lYv9SsU.jpg" alt="RDP event fail logs to iP Geographic information"/>
 </p>
